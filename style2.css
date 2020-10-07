@@ -1,0 +1,42 @@
+body{
+    background-image: url("abstract-sea-background-sandy-summer-beach-bokeh-lights-light-blue-sky-beautiful-texture-space-131428079.jpg");
+    background-size: cover;
+}
+body, html {
+  height: 100%;
+}
+.container {
+    margin: auto;
+    background-color: white;
+    height: 500px;
+    width: 700px;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    box-shadow: 10px 10px 5px #aaaaaa;
+  
+}
+
+.container h1{
+text-align: center;
+ font-family: "Comic Sans MS", cursive, sans-serif;
+
+}
+
+.container q {
+    color: purple;
+     font-family: "Comic Sans MS", cursive, sans-serif;
+}
+.buttons{
+    margin-top : 20px;
+
+}
+
+#ans1, #ans2, #ans3, #ans4, {
+color : white;
+background-color: pink;
+padding: 5px 5px;
+margin: 10px 30px 10px 0px;
+
+}
